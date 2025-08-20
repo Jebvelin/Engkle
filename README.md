@@ -1,7 +1,6 @@
 # Engkle
+แอปพลิเคชันนี้ คือ โปรเจคจมหาลัยของผม. แอปพลิเคชันนี้ คือ แอปพลิเคชันการอ่านออกเสียงคำศัพท์ภาษาอังกฤษ ระดับประถมต้นและประถมปลาย
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+ตัวอย่างหน้าแอปพลิเคชัน!!
